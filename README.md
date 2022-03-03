@@ -1,6 +1,6 @@
 # Sobre mim
-- 👋 Olá,meu nome é @Gunga-16
-- Meu email de contato é calazanssergiohenrique@gmail.com
+- 👋 Olá,meu nome é **@Gunga-16**
+- Meu email de contato é [email](calazanssergiohenrique@gmail.com)
 - Eu estou interessado em programar novas linguagens.
 - 🌱 Estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch.
 
